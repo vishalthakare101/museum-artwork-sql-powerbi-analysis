@@ -21,7 +21,7 @@ This project analyzes a museum's artwork collection using SQL for data cleaning 
 - /documentation → Summary & insights
 
 ## 📊 Dashboard Preview
-![Dashboard](images/dashboard_screenshot.png)
+Dashboard image
 
 ## 📌 Summary
 This project demonstrates data cleaning, transformation, analysis, and visualization skills suitable for data analyst roles.
