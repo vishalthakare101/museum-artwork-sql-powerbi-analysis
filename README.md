@@ -68,7 +68,8 @@ The goal of this project is to:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](https://raw.githubusercontent.com/vishalthakare101/museum-artwork-sql-powerbi-analysis/main/images/Museum_Art_Analytics_Project_Dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/vishalthakare101/museum-artwork-sql-powerbi-analysis/c5f42142340a86d08e4bc8b10d82ada30d893448/images/Museum_Art_Analytics_Project_Dashboard.png)
+
 
 ---
 
