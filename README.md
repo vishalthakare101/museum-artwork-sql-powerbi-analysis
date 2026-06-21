@@ -111,4 +111,3 @@ It is ideal for showcasing **Data Analyst** skills in your portfolio.
 
 **Vishal Thakare**  
 Data Analyst | SQL | Power BI | BI  
-```
