@@ -68,7 +68,7 @@ The goal of this project is to:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard_screenshot.png)
+![Dashboard](images/Museum_Art_Analytics_Project_Dashboard.png)
 
 ---
 
